@@ -1,0 +1,9 @@
+@media screen and (min-width: 0) {
+    .card{
+        padding: 1rem;
+    }
+    
+    .card__image{
+        width: 10rem;
+    }   
+}
