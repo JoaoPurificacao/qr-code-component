@@ -8,19 +8,14 @@
 }
 
 .card__image{
-    border-radius: 15px;
-    width: 100rem;
+    border-radius: 10px;
 }
 
 .card__text{
-    height: 50vh;
     text-align: center;
-}
-
-.card__text__title{
-
+    /* border: 1px red solid; */
 }
 
 .card__text__paragraph{
-
+    color: var(--grayish-blue);
 }
