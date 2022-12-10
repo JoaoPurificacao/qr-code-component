@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![ScreenShot](./assets/design/screenshot.PNG)  
 ### Links
 - Solution URL: [Click here](https://github.com/JoaoPurificacao/qr-code-component)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://joaopurificacao.github.io/qr-code-component/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
